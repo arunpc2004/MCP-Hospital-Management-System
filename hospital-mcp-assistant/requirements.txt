@@ -1,0 +1,4 @@
+mcp[cli]==1.28.1
+groq==1.5.0
+mysql-connector-python==9.7.0
+python-dotenv==1.2.2
